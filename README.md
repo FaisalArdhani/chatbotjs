@@ -25,7 +25,7 @@ This is a simple and interactive chatbot powered by the ChatGPT API. You can hav
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your_username/chatbot-terminal.git
+git clone https://github.com/FaisalArdhani/chatbotjs.git
 cd chatbot-terminal
 ```
 
@@ -80,7 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to contribute and improve this chatbot terminal to make it more fun and useful for users. Happy chatting! 🚀
 
-Created with ❤️ by [Faisal Ardhani](https://github.com/your_username)
+Created with ❤️ by [Faisal Ardhani](https://github.com/FaisalArdhani)
 
 ## Acknowledgements
 Special thanks to OpenAI for providing the powerful ChatGPT API that makes this chatbot possible.
