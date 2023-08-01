@@ -1,4 +1,4 @@
-**Chatbot via Terminal using ChatGPT API with Node.js**
+## Chatbot via Terminal using ChatGPT API with Node.js
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.4-green.svg)](https://nodejs.org/)
@@ -39,7 +39,7 @@ Once the chatbot is running, simply type your message or question in the termina
 - Readline (for terminal input)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yourusername/chatbot-terminal-nodejs/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/FaisalArdhani/chatbotjs/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 Special thanks to OpenAI for providing the powerful ChatGPT API that makes this chatbot possible.
