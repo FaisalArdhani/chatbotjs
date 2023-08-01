@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v14.17.4-green.svg)](https://nodejs.org/)
+
+
 ![Chatbot Terminal](https://example.com/chatbot_terminal.png)
 
 Welcome to Chatbot Terminal! 🤖
@@ -56,15 +58,15 @@ node index.js
 ## Example Conversation
 
 ```
-User: Hello, chatbot!
+You: Hello, chatbot!
 Chatbot: Hi there! How can I assist you today?
-User: Tell me a joke.
+You: Tell me a joke.
 Chatbot: Why don't scientists trust atoms? Because they make up everything!
-User: What's the capital of France?
+You: What's the capital of France?
 Chatbot: The capital of France is Paris.
-User: How does photosynthesis work?
+You: How does photosynthesis work?
 Chatbot: Photosynthesis is the process by which green plants convert sunlight into energy and produce oxygen.
-User: Thank you, chatbot!
+You: Thank you, chatbot!
 Chatbot: You're welcome! Feel free to ask me anything anytime.
 ```
 
